@@ -44,7 +44,6 @@
     <div class="row">
       <div class="col-auto">
         <b-form-input v-model="companySearch" placeholder="Filter by company name"/>
-        {{ companySearch }}
       </div>
     </div>
 
